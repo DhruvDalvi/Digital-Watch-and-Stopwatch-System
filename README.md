@@ -52,7 +52,7 @@ Clock ────────►                     │
 ```
 # File Structure
 
-
+``` text
 Digital-Watch-Stopwatch/
 │
 ├── rtl/
@@ -65,7 +65,7 @@ Digital-Watch-Stopwatch/
 │   └── waveforms/
 │
 └── README.md
-
+```
 
 # Verification
 
@@ -81,7 +81,7 @@ The testbench checks:
 * Stopwatch stop operation
 * Stopwatch reset operation
 
-Simulation waveforms are used to observe the behavior of the counters and control signals.
+Simulation waveforms are used to observe the behaviour of the counters and control signals.
 
 # Simulation
 
