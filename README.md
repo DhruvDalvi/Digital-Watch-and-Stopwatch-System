@@ -23,7 +23,7 @@ The system is implemented using:
 
 # Main Functional Blocks
 
-
+``` text
               ┌─────────────────────┐
 Clock ────────►                     │
               │    Clock Divider    │
@@ -49,7 +49,7 @@ Clock ────────►                     │
                          ▼
                   Time / Stopwatch
                      Outputs
-
+```
 # File Structure
 
 
